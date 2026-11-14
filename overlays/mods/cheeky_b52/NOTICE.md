@@ -5,7 +5,7 @@
 The 2026-10-18 macro revision starts secondary-tool calibration directly by default. Backup acknowledgement is optional; native source changes are unchanged.
 
 This usermod is distributed under GPL-3.0. The complete license is available in
-the [standalone project](https://github.com/cheekyb52/Snapmaker-U1-Single-Tool-Calibration/blob/main/LICENSE).
+the [standalone project](https://github.com/cheeky-bastard/Snapmaker-U1-Single-Tool-Calibration/blob/main/LICENSE).
 Original copyright, license and warranty notices in upstream sources are retained.
 
 The calibration project modifies `klippy/kinematics/extruder.py` for opt-in
@@ -34,3 +34,7 @@ diameter check in `cmd_SET_PRINT_TASK_PARAMETERS`. Its original GPLv3 notice and
 the rest of its code are retained. The stage adds exact source/modified hashes
 and isolated validation tests. The calibration native patch and CFG are unchanged.
 This workaround is included only when composing this personal usermod image.
+
+## Restoration — 2026-11-14
+
+Restored under `cheeky-bastard` on 2026-11-14. Historical source banners, copyright notices and exact native/CFG payload hashes are retained. Old account URLs in source comments and historical records identify provenance; current project links use the new account. The stable `cheeky_b52` mod namespace is retained for compatibility. No upstream PR is authorized.

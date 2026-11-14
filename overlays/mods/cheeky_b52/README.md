@@ -125,7 +125,7 @@ Speed tuning is deferred: retain ten calibration points, six validation points
 and three XY repeats. Those live results used CFG 0.1.0. Current CFG 0.1.1 changes the default button-start policy only; the native payload remains 0.2.0-dev1. The new CFG has offline coverage; live acceptance of that revision is pending.
 
 Full instructions, source hashes, regression sources, results and rollback guidance:
-[standalone project](https://github.com/cheekyb52/Snapmaker-U1-Single-Tool-Calibration).
+[standalone project](https://github.com/cheeky-bastard/Snapmaker-U1-Single-Tool-Calibration).
 
 ## Attribution
 
@@ -133,3 +133,7 @@ GPL-3.0; see [NOTICE](NOTICE.md). Builds on Snapmaker U1 Klipper and Klipper,
 preserving existing source notices. Thanks to Paxx and the Extended Firmware
 contributors for the optional-mod infrastructure and documentation conventions.
 Independently maintained on a best-effort basis.
+
+## Restoration — 2026-11-14
+
+Restored under `cheeky-bastard` on 2026-11-14. Historical source banners, copyright notices and exact native/CFG payload hashes are retained. Old account URLs in source comments and historical records identify provenance; current project links use the new account. The stable `cheeky_b52` mod namespace is retained for compatibility. No upstream PR is authorized.
