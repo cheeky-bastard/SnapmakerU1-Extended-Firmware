@@ -1,6 +1,6 @@
 # Snapmaker U1 calibration firmware — 2.0
 
-**Maintainer: cheeky-bastard | Restored: 2026-11-14**
+**Maintainer: cheeky-bastard | Restored: 2026-11-14 | Synced: 2026-11-18**
 
 Personal Paxx-based firmware with independent T1/T2/T3 calibration and a guarded mixed-nozzle print-start workaround. T0 directs the operator to stock full calibration; clean/validate saves nothing.
 
